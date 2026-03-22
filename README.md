@@ -57,4 +57,4 @@ Todas as ferramentas e técnicas demonstradas aqui são para fins **exclusivamen
 *   Documentação Oficial: [Python socket](https://docs.python.org/3/library/socket.html)
 
 ---
-*Desenvolvido com 🐍 por [Seu Nome/Rubem]*
+*Desenvolvido com 🐍 por [Rubem]*
